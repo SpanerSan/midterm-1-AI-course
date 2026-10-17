@@ -9,7 +9,7 @@ Fingerprint: 1b98ce4d
 
 ## AI-use declaration
 
-I used ChatGPT (GPT-6) as an AI assistant for this examination. It helped me interpret the README and scoring rubric, inspect the supplied generator code, calculate retrieval and document-processing metrics, apply the Wilson confidence-interval formula, and compare options under the stated budget and privacy constraints. ChatGPT also assisted with drafting the short explanations, the operational decision memo, and the final wording of my answers.
+I used ChatGPT (GPT-6) as an AI assistant for this examination. It helped me interpret the README and scoring rubric, inspect the supplied generator code, calculate retrieval and document-processing metrics, apply the Wilson confidence-interval formula, and compare options under the stated budget and privacy constraints. ChatGPT also assisted with drafting the short explanations, the operational decision memo.
 
 I used Python to reproduce the repository's deterministic data-generation logic for my assigned GitHub username and session code, to calculate and cross-check the numerical results, and to produce the tables. The external data in this exercise are synthetic, not observations of a real bank. I did not use another student's dataset or written submission as a source. The choices and reasoning presented below are tied to the individual figures and the formulas provided in the assignment; they need to be understood and defended during the oral check.
 
